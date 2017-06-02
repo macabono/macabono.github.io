@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "Mihai M, zis Maca, isi lanseaza site-ul"
+title: "Ok, site-ul e live"
 date: 2017-06-02
 ---
 
 Well. 
 
-Intr-un final, in sfarsit, in cele din urma si bine ca mai tarziu decat mai devreme, am dat drumul la site.
-Am ales sa fie - powered by [Jekyll](http://jekyllrb.com) si voi scrie postarile in Markdown. 
+Intr-un final, in sfarsit, in cele din urma si mai tarziu decat mai devreme... am dat drumul la site.
+
+E - powered by [Jekyll](http://jekyllrb.com) si postarile sunt in Markdown. 
 
 Vom vedea cat de super easy va fi.
 
